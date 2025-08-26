@@ -5,9 +5,9 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Python-28323C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Java-28323C?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/JavaScript-28323C?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-28323C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
 <!--
