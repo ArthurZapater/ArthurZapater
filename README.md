@@ -3,8 +3,7 @@
 <h1 align="center" style="color:#28323C;">Hi, I'm Arthur Zapater 👋</h1>
 
 <p align="center">
-  <strong>Back-end Software Developer</strong> <br>
-  <em>Crafting robust backends with code</em>
+  <strong>Back-end Software Developer</strong>
 </p>
 
 ---
@@ -16,12 +15,6 @@
   <img src="https://img.shields.io/badge/Java-28323C?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/JavaScript-28323C?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
 </p>
-
----
-
-### 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arthur%20Zapater-28323C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurzapater)
 
 ---
 
