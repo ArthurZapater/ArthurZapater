@@ -8,8 +8,6 @@
 
 ---
 
-### 🛠️ Tech Stack
-
 <p>
   <img src="https://img.shields.io/badge/Python-28323C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Java-28323C?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
