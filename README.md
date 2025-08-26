@@ -11,6 +11,5 @@
           
 </p>
 
- p {
-      background-color: lightblue;
-    }
+background-color: lightblue;
+  
