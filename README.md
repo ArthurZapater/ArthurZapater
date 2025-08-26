@@ -16,8 +16,6 @@
   <img src="https://img.shields.io/badge/JavaScript-28323C?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
 </p>
 
----
-
 <!--
 **Color Theme:**  
 HEX: #28323C  
