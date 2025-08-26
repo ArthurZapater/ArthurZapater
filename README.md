@@ -11,11 +11,6 @@
           
 </p>
 
-<!--
-**Color Theme:**  
-HEX: #28323C  
-RGB: 40, 50, 60  
-CMYK: 85, 65, 50, 50
-
-Feel free to reach out for collaboration, interesting back-end challenges, or just to say hi!
--->
+ p {
+      background-color: lightblue;
+    }
