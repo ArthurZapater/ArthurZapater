@@ -1,7 +1,7 @@
 <!-- ArthurZapater's GitHub Profile README -->
 
 <p align="left">
-  Hi, I'm Arthur👋
+  Hi, I'm Arthur!
 </p>
 
 ---
