@@ -1,16 +1,35 @@
-## Hi there 👋
+<!-- ArthurZapater's GitHub Profile README -->
+
+<h1 align="center" style="color:#28323C;">Hi, I'm Arthur Zapater 👋</h1>
+
+<p align="center">
+  <strong>Back-end Software Developer</strong> <br>
+  <em>Crafting robust backends with code</em>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-28323C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-28323C?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-28323C?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+</p>
+
+---
+
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arthur%20Zapater-28323C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurzapater)
+
+---
 
 <!--
-**ArthurZapater/ArthurZapater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Color Theme:**  
+HEX: #28323C  
+RGB: 40, 50, 60  
+CMYK: 85, 65, 50, 50
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Feel free to reach out for collaboration, interesting back-end challenges, or just to say hi!
 -->
