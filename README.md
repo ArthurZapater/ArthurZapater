@@ -5,8 +5,8 @@
 </p>
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript"/>
+  <img  height= 30 width= 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" alt="Java"/>
+  <img  height= 30 width= 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Python-28323C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
