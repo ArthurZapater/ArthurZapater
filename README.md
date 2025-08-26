@@ -1,9 +1,7 @@
 <!-- ArthurZapater's GitHub Profile README -->
 
-<h1 align="center" style="color:#28323C;">Hi, I'm Arthur Zapater 👋</h1>
-
-<p align="center">
-  <strong>Back-end Software Developer</strong>
+<p align="left">
+  <strong>Hi, I'm Arthur Zapater 👋</strong>
 </p>
 
 ---
