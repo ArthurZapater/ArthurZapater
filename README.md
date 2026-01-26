@@ -1,9 +1,18 @@
 <!-- ArthurZapater's GitHub Profile README -->
-<circle xmlns="http://www.w3.org/2000/svg" cx="20" cy="17" r="6" fill="#ff5f56"/>
-<circle xmlns="http://www.w3.org/2000/svg" cx="40" cy="17" r="6" fill="#ffbd2e"/>
-<circle xmlns="http://www.w3.org/2000/svg" cx="60" cy="17" r="6" fill="#27c93f"/>
+
 # Hi, I'm Arthur !
 
+<div style="
+  background-color: #71b7ff; 
+  color: #000; 
+  padding: 5px 20px; 
+  font-weight: bold; 
+  font-family: monospace; 
+  width: fit-content; 
+  clip-path: polygon(0% 0%, 90% 0%, 100% 50%, 90% 100%, 0% 100%);
+">
+  TECH STACK
+</div>
 <p> 
   <img  height= 30 width= 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" alt="Java"/>
   <img  height= 30 width= 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring" />
