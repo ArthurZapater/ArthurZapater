@@ -1,22 +1,20 @@
 <!-- ArthurZapater's GitHub Profile README -->
+<div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
+</div>
 
-# Hi, I'm Arthur !
+<h1 align="center">Hey 👋What's Up?</h1>
 
-<samp>
-  <kbd style="background-color: #71b7ff; color: #000; padding: 2px 10px; border-radius: 0;">&nbsp; USER PROFILE &nbsp;</kbd>
-</samp>
+###
 
-**Estudante de Sistemas de Informação na FIAP**  
-
-<samp>
-  <kbd style="background-color: #a2e3a4; color: #000; padding: 2px 10px; border-radius: 0;">&nbsp; TECH STACK &nbsp;</kbd>
-</samp>
-<br>
-<br>
-<p> 
-  <img  height= 40 width= 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" alt="Java"/>
-  <img  height= 40 width= 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,git,idea,net,postgree" />
+  </a>
 </p>
+
+###
+
 
 
             
