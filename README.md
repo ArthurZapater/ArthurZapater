@@ -1,7 +1,7 @@
 <!-- ArthurZapater's GitHub Profile README -->
 
 # Hi, I'm Arthur !
-#
+
 <samp>
   <kbd style="background-color: #71b7ff; color: #000; padding: 2px 10px; border-radius: 0;">&nbsp; USER PROFILE &nbsp;</kbd>
 </samp>
