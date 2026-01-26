@@ -1,6 +1,6 @@
 <!-- ArthurZapater's GitHub Profile README -->
 <h1 align="center">Hii 👋 I'm Arthur</h1>
-<p align="center">I am a Back End Developer</p>
+<p align="left">I'm an Information Systems student at FIAP and an aspiring Java Developer. I'm interested in backend development!</p>
 
 <h2 align="left">About me</h2>
 
