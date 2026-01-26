@@ -1,16 +1,15 @@
 <!-- ArthurZapater's GitHub Profile README -->
-
 <h1 align="center">Hii 👋 I'm Arthur</h1>
 <p align="center">I am a Back End Developer</p>
 
 <h2 align="left">About me</h2>
 
-<table>
-  <tr>
-    <td valign="top" width="250">
+<table border="0">
+  <tr style="border: none;">
+    <td valign="top" width="250" style="border: none;">
       <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyYjB0cWozczkwMDEzYjhnNTdnMThoYXB4dTN2NnByaHRlYjV2dTN0OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EZr27ZbJwmjE9PGyLN/giphy.gif" width="100%" />
     </td>
-    <td valign="top">
+    <td valign="top" style="border: none;">
       <br>
       📚 I'm currently learning <b>Java, Spring Boot & .NET</b><br>
       💼 I'm looking for a <b>Software Engineering Internship</b><br>
