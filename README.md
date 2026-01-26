@@ -9,7 +9,7 @@
 **Estudante de Sistemas de Informação na FIAP**  
 
 <samp>
-  <kbd style="background-color: #a2e3a4; color: #000; padding: 2px 10px; border-radius: 0;">&nbsp; CORE STACK &nbsp;</kbd>
+  <kbd style="background-color: #a2e3a4; color: #000; padding: 2px 10px;  margin: 2px 10px ;border-radius: 0;">&nbsp; TECH STACK &nbsp;</kbd>
 </samp>
 
 <p> 
