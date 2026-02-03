@@ -11,7 +11,7 @@
     </td>
     <td valign="top" style="border: none;">
       <br>
-      📚 I'm currently learning <b>Java, Spring Boot & .NET</b><br>
+      📚 I'm currently learning <b>Java & .NET</b><br>
       💼 I'm looking for a <b>Software Engineering Internship</b><br>
       📫 How to reach me: <a href="mailto:arthur.zapater@gmail.com">arthur.zapater@gmail.com</a>
       <br><br>
