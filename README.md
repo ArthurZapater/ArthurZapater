@@ -11,7 +11,7 @@
     </td>
     <td valign="top" style="border: none;">
       <br>
-      📚 I'm currently learning <b>Java & .NET</b><br>
+      📚 I'm currently learning <b>Java & Spring</b><br>
       💼 I'm looking for a <b>Software Engineering Internship</b><br>
       📫 How to reach me: <a href="mailto:arthur.zapater@gmail.com">arthur.zapater@gmail.com</a>
       <br><br>
@@ -20,7 +20,7 @@
         <img width="8" />
         <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" /> -->
         <!-- <img width="8" /> -->
-        <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo" />
+        <img src="https://skillicons.dev/icons?i=spring" height="40" alt="dot-net logo" />
         <img width="8" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo" />
         <img width="8" />
